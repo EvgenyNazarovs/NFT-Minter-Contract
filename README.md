@@ -1,15 +1,7 @@
-# Basic Sample Hardhat Project
+### Demo NFT Minter - Contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Built as part of the [buildspace](https://buildspace.so/) course. 👏
 
-Try running some of the following tasks:
+The front-end is available in a [separate repo](https://github.com/EvgenyNazarovs/NFT-Minter-Front-End).
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Check out the live version [here](http://www.eugenes-first-nft.com.s3-website-eu-west-1.amazonaws.com/)! 🦊
